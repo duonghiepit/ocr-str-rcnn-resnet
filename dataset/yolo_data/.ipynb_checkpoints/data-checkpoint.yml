@@ -1,0 +1,7 @@
+names:
+- text
+nc: 1
+path: C:\Users\Admin\AIO\OCR_STR(Yolov8+CNN)\icdar2003\yolo_data
+test: C:\Users\Admin\AIO\OCR_STR(Yolov8+CNN)\icdar2003\yolo_data\test\images
+train: C:\Users\Admin\AIO\OCR_STR(Yolov8+CNN)\icdar2003\yolo_data\train\images
+val: C:\Users\Admin\AIO\OCR_STR(Yolov8+CNN)\icdar2003\yolo_data\val\images
